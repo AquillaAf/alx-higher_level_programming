@@ -14,5 +14,5 @@ elif (number > 0):
     elif(rip == 0):
         print("Last digit of {} is {} and is 0".format(number, rip))
 
-else:
+elif (number == 0):
     print("number is 0")
