@@ -6,4 +6,3 @@ for num in range(1, 100):
         print("{}".format(num))
     else:
         print("{}".format(num), end=", ")
-print('\n')
