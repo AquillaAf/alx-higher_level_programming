@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+str = "Python is an interpreted, interactive, object-oriented programming\
+        language that combines remarkable power with very clear syntax"
+#strin1 = str.find('object')
+#strin2 = str.find('with')
+#strin3 = str.find('python')
+#print(strin2)
+print(str[39:66] + " " + str[114:118] + " " + str[0:6])
