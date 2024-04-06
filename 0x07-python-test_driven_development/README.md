@@ -1,1 +1,1 @@
-this dir contains programs on how we test code
+This directory contains programs training a programmer to be a core programmmer
