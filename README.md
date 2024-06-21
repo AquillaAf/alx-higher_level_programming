@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-This is a repository that contains higher level programming
+this repository contains modules on higher programming language like python

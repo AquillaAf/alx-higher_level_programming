@@ -1,1 +1,1 @@
-This directory contains programs on class and its inheritance
+this directory contains programs on object, class inheritance
