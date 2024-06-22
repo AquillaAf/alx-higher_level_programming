@@ -1,8 +1,7 @@
 #!/usr/bin/env node
-const args = process.argv.slice(2); // Remove the first two elements (node executable and script path)
-const firstArg = args.shift(); // Remove and retrieve the first argument
-if (firstArg === undefined) {
+const args = process.argv; // Remove the first two elements (node executable and script path)
+if (args.length === 2) {
   console.log('No argument');
 } else {
-  console.log(firstArg);
+  for (let i = 2; i < args.length; i++) { console.log(args[i]); }
 }
