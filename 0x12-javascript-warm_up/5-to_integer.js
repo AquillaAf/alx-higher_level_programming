@@ -7,6 +7,6 @@ if (args.length === 2) {
   if (isNaN(value) === true) {
     console.log('Not a number');
   } else {
-    console.log(value);
+    console.log('My number: ' + value);
   }
 }
